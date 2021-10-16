@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>chekpoint 3</title>
+</head>
+<body>
+	
+<menu padding-left: 30px; style="
+            color:red;
+            font-size:20px;
+			border: 5px outset yellowgreen ">
+à propos
+</menu>
+<h4 padding-top: 40px; style="
+            color:rgb(123, 255, 0);
+			font-size:20px;
+        	border: 6px dotted blue
+			 ">
+	I am 11 years old
+</h4>
+<h4 	margin: 50px; style="
+         color:rgb(255, 251, 0);
+         font-size:20px;
+		 border:  2px dashed green;
+		  ">
+	I have one sister and  one brother
+</h4>
+
+<div  style="
+			color:rgb(138, 238, 134);
+			font-size:20px;
+			border: 3px solid black;
+		">
+	I like playing football
+</div>
+
+<menu style="
+            color:rgb(32, 253, 242);
+            font-size:20px;
+			border: 4px double yellow
+			">
+	Contactez-nouus
+</menu>
+
+<h4 style="
+            color:rgb(107, 107, 107);
+			font-size:20px;
+			border: 1px inset red
+			">
+	https://github.com/iyedgs
+</h4>
+
+</body>
+</html>
